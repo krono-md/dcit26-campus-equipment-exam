@@ -1,3 +1,4 @@
+
 # Campus Equipment Catalog
 
 React and Vite starter application for browsing shared campus laboratory equipment.
